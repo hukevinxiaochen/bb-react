@@ -11,11 +11,13 @@ This project expects:
 * Globally installed is yarn `npm install -g yarn`.
 * Locally in the project directory the following command is run `yarn set version 1.22.4`.
 
-At the time of this writing (26-08-2020) we have only the following in our Package.json.
-
-And it all runs with a simple `yarn start`. I use yarn 1.22.4 because I tried to set up.
+And it all runs with a simple `yarn start`.
 
 ### Some Details
+
+[Parcel][parcel] and [React][react] are the main dependencies. [React Router][react-router] is in here because I am learning it right now and made a trivial demo.
+
+At the time of this writing (26-08-2020) we have only the following in our Package.json.
 
 *excerpt of package.json*
 ```json
