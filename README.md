@@ -49,3 +49,7 @@ I use [entr][entr]
 ---
 
 [entr]: http://eradman.com/entrproject/
+[parcel]: https://parceljs.org/
+[react]: https://reactjs.org/
+[react-router]: https://reactrouter.com/web/guides/quick-start
+
