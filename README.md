@@ -8,8 +8,7 @@ Use `main` as the default branch, not `master`.
 This project expects:
 
 * On the machine, we have `node --version | v12.18.3` somewhere.
-* Globally installed is yarn `npm install -g yarn`.
-* Locally in the project directory the following command is run `yarn set version 1.22.4`.
+* Globally installed is [ yarn ](https://classic.yarnpkg.com/en/docs/install#mac-stable).
 
 And it all runs with a simple `yarn start`.
 
@@ -43,8 +42,7 @@ _not all files shown_
 | README.md
 ```
 
-
-I use [entr][entr]
+I use [entr][entr] to watch files. But you can use whatever you'd like.
 
 ---
 
