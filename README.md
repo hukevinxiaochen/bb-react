@@ -21,7 +21,6 @@ At the time of this writing (26-08-2020) we have only the following in our Packa
 *excerpt of package.json*
 ```json
 "dependencies": {
-  "babel-types": "^6.26.0",
   "react": "^16.13.1",
   "react-dom": "^16.13.1",
   "react-router-dom": "^5.2.0"
